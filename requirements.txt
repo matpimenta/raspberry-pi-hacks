@@ -1,0 +1,5 @@
+opencv-python
+pyjwt
+paho-mqtt
+fastavro
+kafka-python
